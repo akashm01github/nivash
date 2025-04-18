@@ -25,16 +25,6 @@ A responsive and modern real estate listing platform built with **Tailwind CSS**
 
 ---
 
-## 📌 Features
-
-- 🔍 Search & filter property listings  
-- 📱 Fully responsive layout  
-- 🏷️ Tags & prices for quick overview  
-- 🌐 SEO-friendly structure  
-- 🧩 Reusable Tailwind components  
-
----
-
 ## 🚀 Getting Started
 
 1. Clone the repository:
