@@ -7,7 +7,7 @@ A responsive and modern real estate listing platform built with **Tailwind CSS**
 ## 📸 Website Preview
 
 ### 🖥️ Desktop View
-<img src="https://raw.githubusercontent.com/akashm01github/nivash/main/images/Macbook-Air-127.0.0.1.png" alt="Desktop Banner" width="700"/>
+<img src="https://raw.githubusercontent.com/akashm01github/nivash/main/images/Macbook-Air-127.0.0.1.png" alt="Desktop Banner" width="500"/>
 
 ### 📱 Mobile View
 <img src="https://raw.githubusercontent.com/akashm01github/nivash/main/images/iPhone-12-(iOS-14)-127.0.0.1.png" alt="Mobile Banner" width="300"/>
